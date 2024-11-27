@@ -1,0 +1,2 @@
+country,state,electricity_unit,electricity_value,estimated_at,carbon_g,carbon_lb,carbon_kg,carbon_mt
+us,fl,mwh,42.0,2024-11-27 16:03:06.529000+00:00,16710476,36840.29,16710.48,16.71
