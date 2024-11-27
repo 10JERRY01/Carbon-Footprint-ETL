@@ -33,11 +33,11 @@ Store the data into a PostgreSQL database for persistence and later use.
 
 3. Data Analysis and Machine Learning Model
 Objective: Predict future carbon emissions based on historical data using Prophet for time series forecasting.
-Steps:
 
-Use the data stored in the PostgreSQL database to train a time series forecasting model.
-Preprocess data by aggregating carbon emissions values over time.
-Train a Prophet model to forecast emissions.
+Steps:
+- Use the data stored in the PostgreSQL database to train a time series forecasting model.
+- Preprocess data by aggregating carbon emissions values over time.
+- Train a Prophet model to forecast emissions.
 
 4. Data Visualization (Dash Web Application)
 Use Dash to create a web interface for visualizing the historical and forecasted carbon emissions.
