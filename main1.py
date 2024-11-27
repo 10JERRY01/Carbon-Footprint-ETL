@@ -62,7 +62,7 @@ def fetch_electricity_data(api_url, api_key, electricity_value, country, state=N
 # Example usage
 if __name__ == "__main__":
     API_URL = "https://www.carboninterface.com/api/v1/estimates"
-    API_KEY = "vxHOHG5ahxVWNYM8NOEzOw"  # Replace with your actual API key
+    API_KEY = ""  # Replace with your actual API key
     
     try:
         # Fetch the data
